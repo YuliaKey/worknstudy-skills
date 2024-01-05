@@ -19,45 +19,47 @@
 (e) => mc2;
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
+https://github.com/YuliaKey/good_corners
 
 Description :
 
-### J'ai utilisé ce langage en production ❌ / ✔️
+### J'ai utilisé ce langage en production ❌ 
 
 [lien du projet](...)
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en environement professionnel ✔️
 
 Description :
+
+J'utilise Javascript avec du Typescript en entreprise où je travaile sur le projet e-commerce React mobile
 
 ## 🌐 J'utilise des ressources
 
 ### Titre
 
-- lien
-- description
+- [lien](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- MDN Web Docs est une plateforme de documentation exhaustive pour les technologies web. La partie dédiée à JavaScript fournit des informations détaillées, des guides, des tutoriels et des références sur tous les aspects du langage de programmation JavaScript.
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ❌ 
 
 Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
+- action 1 ❌ 
+- action 2 ❌ 
 - ...
 
 Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌ 
+- J'ai fait une [présentation](...) ❌ 
 
