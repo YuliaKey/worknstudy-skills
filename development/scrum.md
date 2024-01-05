@@ -26,15 +26,27 @@
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté  ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+Daily Stand-up (Réunion Quotidienne) :
+
+Réunions courtes quotidiennes (15 minutes maximum) où chaque membre de l'équipe répond à trois questions :
+Qu'est-ce que j'ai fait hier ?
+Qu'est-ce que je vais faire aujourd'hui ?
+Ai-je des obstacles ?
+
+Sprint Retrospective (Rétrospective de Sprint) :
+
+L'équipe réfléchit sur le sprint passé, identifie ce qui a bien fonctionné et ce qui peut être amélioré.
+Des actions sont décidées pour améliorer la productivité et la qualité dans les futurs sprints.
+
+### Utilisation dans un projet ❌ 
 
 [lien (screenshot/photos)](...)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌ 
 
 [lien (screenshot/photos)](...)
 
@@ -55,19 +67,19 @@ Description :
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ❌
 
 Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
+- action 1 ❌ 
+- action 2 ❌ 
 - ...
 
 Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌
+- J'ai fait une [présentation](...) ❌ 
