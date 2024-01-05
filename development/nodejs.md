@@ -15,23 +15,43 @@
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-```javascript
-// this function takes a path to a .md file of the host system and write the HTML version of this file
-// the .html file is given back
-const convertMDFileToHTML = (pathToMDfile) => /* ... path to HTML file */
+```node js
+const fs = require('fs');
+
+// Function to read a JSON file asynchronously and parse its content
+const readAndParseJSONFile = (filePath) => {
+  fs.readFile(filePath, 'utf8', (err, data) => {
+    if (err) {
+      console.error(`Error reading file: ${err}`);
+      return;
+    }
+    
+    try {
+      const jsonData = JSON.parse(data);
+      console.log('Parsed JSON data:', jsonData);
+      // Perform operations with jsonData here
+    } catch (parseError) {
+      console.error(`Error parsing JSON: ${parseError}`);
+    }
+  });
+};
+
+// Usage: Read and parse a JSON file
+const filePath = 'example.json'; // Provide the path to your JSON file
+readAndParseJSONFile(filePath);
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
-[lien github](...)
+[[lien github](...)](https://github.com/YuliaKey/good_corners)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable ✔️
 
 [lien du projet](...)
 
-Description :
+Description : ❌
 
 ### Utilisation en environement professionnel ❌ / ✔️
 
@@ -41,19 +61,19 @@ Description :
 
 ### Titre
 
-- lien
-- description
+- [lien](https://nodejs.org/en)
+-  Le site officiel de Node.js propose une documentation exhaustive, des guides, des tutoriels et des références pour apprendre Node.js et sa bibliothèque standard.
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ❌ 
 
 Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
+- action 1 ❌ 
+- action 2 ❌ 
 - ...
 
 Résolution :
