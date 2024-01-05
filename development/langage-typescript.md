@@ -13,7 +13,15 @@
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌ 
+
+
+// Déclaration d'une interface représentant une tâche
+interface Task {
+  id: number;
+  title: string;
+  completed: boolean;
+}
 
 ### Utilisation dans un projet  ✔️
 
